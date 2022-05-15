@@ -53,7 +53,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-xs-12 text-center logo-wrap">
-						<div id="fh5co-logo"><a href="index.html">Sacha Bourdeau le restaurant<span>.</span></a></div>
+						<div id="fh5co-logo"><a href="index.html">Le kha'zix café/restaurant<span>.</span></a></div>
 					</div>
 					<div class="col-xs-12 text-center menu-1 menu-wrap">
 						<ul>
@@ -166,33 +166,39 @@
 		</div>
 	</div>
 	
-	<!--
 	<div id="fh5co-featured-testimony" class="fh5co-section">
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12 fh5co-heading animate-box">
-					<h2>Temoignages</h2>
+					<h2>Un mot de notre chef restaurateur</h2>
 					<div class="row">
 						<div class="col-md-6">
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis ab debitis sit itaque totam, a maiores nihil, nulla magnam porro minima officiis! Doloribus aliquam voluptates corporis et tempora consequuntur ipsam, itaque, nesciunt similique commodi omnis.</p>
+							<p>Du haut de sa grande expertise culinaire, notre chef est reconnu comme précurseur dans son domaione culinaire.
+								Ayant suivi l'une des formations les plus prestigieuses, il se rapidement remarquer par les plus grands chefs Français : Philippe Etchebest, Alain Ducasse, Cyril Lignac et d'autres. 
+								Suite à sa participation à de nombreux concours culinaires autour du globe, notre chef sera reconnu 5 étoiles par l'administration académique.
+								<br>
+								Voici quelques mot que notre chef souhaite vous partager sur sa vision du restaurant.
+							</p>
 						</div>
 					</div>
 				</div>
 
 				<div class="col-md-5 animate-box img-to-responsive animate-box" data-animate-effect="fadeInLeft">
-						<img src="images/person_1.jpg" alt="">
+						<img src="images/kz.png" alt="">
 				</div>
 				<div class="col-md-7 animate-box" data-animate-effect="fadeInRight">
 					<blockquote>
-						<p> &ldquo; Quantum ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis ab debitis sit itaque totam, a maiores nihil, nulla magnam porro minima officiis! Doloribus aliquam voluptates corporis et tempora consequuntur ipsam. &rdquo;</p>
-						<p class="author"><cite>&mdash; Jane Smith</cite></p>
+						<p> &ldquo; א̸נ̸י̵ ̵א̷פ̴ל̵ ̶ו̴מ̴ס̴ת̷ו̴ר̴י̶,̷ ̷ו̴ל̶כ̸ן̷ ̵ל̸א̵ ̸מ̸ג̴נ̶י̸ב̵ ̶ו̸כ̵ר̵י̴ז̴מ̶ט̵י̵ 
+							̸ש̵מ̶ס̴ו̴פ̸ק̷ ̷ע̴ל̷ ̸י̷ד̶י̴ ̷ג̸ו̶ג̶ל̸,̶ ̶ה̵מ̸א̸פ̵ש̸ר̶ ̴ל̴ת̴ר̷ג̵ם̸ ̵ט̷ק̷ס̶ט̴ ̴א̵ו̶ ̸ד̶ף̷ ̵א̴י̸נ̷ט̶ר̸נ̴ט̶ ̷ל̵ש̵פ̸ה̵ ̵א̵ח̴ר̴ת̴.̵ ̸ו̶י̸ק̸י̶פ̷ד̶י̵ה̸
+							&rdquo;</p>
+						<p class="author"><cite>&mdash; Kha'zix, chef cuisiner</cite></p>
 					</blockquote>
 				</div>
 			</div>
 		</div>
 	</div>
-	-->
 
+	<!-- TEMOIGANNES RESPONSIVE
 	<div id="fh5co-slider" class="fh5co-section animate-box">
 		<div class="container">
 			<div class="row">
@@ -243,8 +249,9 @@
 			</div>
 		</div>
 	</div>
+	-->
 
-	<!--
+	<!-- PATIE EVENTS
 	<div id="fh5co-blog" class="fh5co-section">
 		<div class="container">
 			<div class="row animate-box">
@@ -321,37 +328,36 @@
 		<div class="container">
 			<div class="row row-pb-md">
 				<div class="col-md-4 fh5co-widget">
-					<h4>Truc officiel</h4>
-					<p>Mentions légales ou je sais pas quoi.</p>
+					<h4>Mentions légales</h4>
+					<p>Aussi, conformément à l’article n°6 de la Loi n°2004-575 du 21 Juin 2004 pour la confiance dans l’économie numérique, et de son établissement le kha'zix cafe restaurant.</p>
 				</div>
 				<div class="col-md-2 col-md-push-1 fh5co-widget">
-					<h4>Links</h4>
+					<h4>Liens</h4>
 					<ul class="fh5co-footer-links">
-						<li><a href="#">Instagram</a></li>
 						<li><a href="#">Github</a></li>
+						<li><a href="#">Spotify</a></li>
 						<li><a href="#">Paypal</a></li>
-						<li><a href="#">Internet</a></li>
+						<li><a href="#">Instagram</a></li>
 					</ul>
 				</div>
 
 				<div class="col-md-2 col-md-push-1 fh5co-widget">
-					<h4>Categories</h4>
+					<h4>Services</h4>
 					<ul class="fh5co-footer-links">
-						<li><a href="#">Landing Page</a></li>
-						<li><a href="#">Real Estate</a></li>
-						<li><a href="#">Personal</a></li>
-						<li><a href="#">Business</a></li>
-						<li><a href="#">e-Commerce</a></li>
+						<li><a href="#">Restaurant</a></li>
+						<li><a href="#">Cafe</a></li>
+						<li><a href="#">Laser game</a></li>
+						<li><a href="#">Mur d'escalade</a></li>
+						<li><a href="#">Salle de karting</a></li>
 					</ul>
 				</div>
 
 				<div class="col-md-4 col-md-push-1 fh5co-widget">
-					<h4>Contact Information</h4>
+					<h4>Informations et contact</h4>
 					<ul class="fh5co-footer-links">
-						<li>198 West 21th Street, <br> Suite 721 New York NY 10016</li>
+						<li>13 place Vendome, <br> 75001, Paris, France</li>
 						<li><a href="tel://1234567920">+ 1235 2355 98</a></li>
-						<li><a href="mailto:info@yoursite.com">info@yoursite.com</a></li>
-						<li><a href="http://https://freehtml5.co">freehtml5.co</a></li>
+						<li><a href="mailto:info@yoursite.com">contact@gmail.com</a></li>
 					</ul>
 				</div>
 
@@ -360,8 +366,8 @@
 			<div class="row copyright">
 				<div class="col-md-12 text-center">
 					<p>
-						<small class="block">&copy; 2016 Free HTML5. All Rights Reserved.</small> 
-						<small class="block">Designed by <a href="http://freehtml5.co/" target="_blank">FreeHTML5.co</a> Demo Images: <a href="http://unsplash.co/" target="_blank">Unsplash</a></small>
+						<small class="block">&copy; Kha'zix cafe restaurant. All Rights Reserved.</small> 
+						<small class="block">Social media : </small>
 					</p>
 					<p>
 						<ul class="fh5co-social-icons">
