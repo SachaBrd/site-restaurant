@@ -94,7 +94,7 @@
 				<div class="col-md-5 col-md-push-1 animate-box">
 					<div class="section-heading">
 						<h2>Notre restaurant</h2>
-						<p style="color: lightgray !important;">Ouvert en 2022 en plein centre de la capitale d'un pays modialement réputé pour sa gastronomie, ce restaurant est un pari risqué que nous assumons pleinement.
+						<p style="color: lightgray !important;">Ouvert en 2022 en plein centre de la capitale d'un pays modialement réputé pour sa gastronomie, le kha'zix cafe restaurant est un pari risqué que nous assumons pleinement.
 							En effet, une majorité de nos plats ne sont jamais vus dans les restaurants gastronomiques habituels par leur ambition. Nos clients en ressortent toujours conquis en
 							jamais personne n'a regretté l'expérience.
 						</p>
@@ -173,8 +173,8 @@
 					<h2>Un mot de notre chef restaurateur</h2>
 					<div class="row">
 						<div class="col-md-6">
-							<p>Du haut de sa grande expertise culinaire, notre chef est reconnu comme précurseur dans son domaione culinaire.
-								Ayant suivi l'une des formations les plus prestigieuses, il se rapidement remarquer par les plus grands chefs Français : Philippe Etchebest, Alain Ducasse, Cyril Lignac et d'autres. 
+							<p style="color: lightgray !important;">Du haut de sa grande expertise, notre chef est reconnu comme précurseur dans son domaione.
+								Ayant suivi l'une des formations les plus prestigieuses, il se fait rapidement remarquer par les plus grands chefs Français : Philippe Etchebest, Alain Ducasse, Cyril Lignac et d'autres. 
 								Suite à sa participation à de nombreux concours culinaires autour du globe, notre chef sera reconnu 5 étoiles par l'administration académique.
 								<br>
 								Voici quelques mot que notre chef souhaite vous partager sur sa vision du restaurant.
@@ -251,57 +251,100 @@
 	</div>
 	-->
 
-	<!-- PATIE EVENTS
 	<div id="fh5co-blog" class="fh5co-section">
 		<div class="container">
 			<div class="row animate-box">
 				<div class="col-md-8 col-md-offset-2 text-center fh5co-heading animate-box">
-					<h2>Events</h2>
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius, consequatur. Aliquam quaerat pariatur repellendus veniam nemo, saepe, culpa eius aspernatur cumque suscipit quae nobis illo tempora. Eum veniam necessitatibus, blanditiis facilis quidem dolore! Dolorem, molestiae.</p>
+					<h2>Activités supplémentaires</h2>
+					<p style="color: lightgray !important;">Notre grande enseigne, le kha'zix cafe restaurant, propose également des activités familiales et entre amis, en effet tout un complexe de loisirs est accessible au sous-sol de notre enseigne.
+					Vous pourrez retrouver au sein de notre établissement :
+					</p>
 				</div>
 			</div>
 			<div class="row">
 				<div class="col-md-4">
 					<div class="fh5co-blog animate-box">
-						<a href="#" class="blog-bg" style="background-image: url(images/gallery_1.jpeg);"></a>
+						<a href="#" class="blog-bg" style="background-image: url(images/laserg.jpeg);"></a>
 						<div class="blog-text">
-							<span class="posted_on">Feb. 15th 2016</span>
-							<h3><a href="#">Photoshoot On The Street</a></h3>
-							<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+							<h3><a href="#">Laser game</a></h3>
+							<p style="color: lightgray !important;">Une grande partie de notre complexe sous terrain a été aménage en laser game,
+								vous pourrez y affronter vos adversaire sur un jeu immersif de tir laser.</p>
 							<ul class="stuff">
-								<li><i class="icon-heart2"></i>1.2K</li>
-								<li><i class="icon-eye2"></i>2K</li>
-								<li><a href="#">Read More<i class="icon-arrow-right22"></i></a></li>
+								<li><i class="icon-heart2"></i>3.2K</li>
+								<li><i class="icon-eye2"></i>14.1K</li>
+								<li><a href="#">Reserver<i class="icon-arrow-right22"></i></a></li>
 							</ul>
 						</div> 
 					</div>
 				</div>
 				<div class="col-md-4">
 					<div class="fh5co-blog animate-box">
-						<a href="#" class="blog-bg" style="background-image: url(images/gallery_2.jpeg);"></a>
+						<a href="#" class="blog-bg" style="background-image: url(images/esc.jpeg);"></a>
 						<div class="blog-text">
-							<span class="posted_on">Feb. 15th 2016</span>
-							<h3><a href="#">Surfing at Philippines</a></h3>
-							<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+							<h3><a href="#">Mur d'escalade</a></h3>
+							<p style="color: lightgray !important;">L'un des plus grands mur d'escalade du monde se trouve dans notre complexe sportif, avec une voie de plus 140 m de hauteur, soit plus de 5 fois la hauteur de la tour eiffel !</p>
 							<ul class="stuff">
-								<li><i class="icon-heart2"></i>1.2K</li>
-								<li><i class="icon-eye2"></i>2K</li>
-								<li><a href="#">Read More<i class="icon-arrow-right22"></i></a></li>
+								<li><i class="icon-heart2"></i>10.6K</li>
+								<li><i class="icon-eye2"></i>32K</li>
+								<li><a href="#">Reserver<i class="icon-arrow-right22"></i></a></li>
 							</ul>
 						</div> 
 					</div>
 				</div>
 				<div class="col-md-4">
 					<div class="fh5co-blog animate-box">
-						<a href="#" class="blog-bg" style="background-image: url(images/gallery_3.jpeg);"></a>
+						<a href="#" class="blog-bg" style="background-image: url(images/trampo.jpeg);"></a>
 						<div class="blog-text">
-							<span class="posted_on">Feb. 15th 2016</span>
-							<h3><a href="#">Focus On Uderwater</a></h3>
-							<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+							<h3><a href="#">Trampopark</a></h3>
+							<p style="color: lightgray !important;">Notre trampopark comporte plus d'un milliard de trampolinesn accessible pour les petits qui souhaite digérer leur repas du midi, comme les plus grand athlétes qui souhaitent réaliser des acrobaties.</p>
 							<ul class="stuff">
-								<li><i class="icon-heart2"></i>1.2K</li>
-								<li><i class="icon-eye2"></i>2K</li>
-								<li><a href="#">Read More<i class="icon-arrow-right22"></i></a></li>
+								<li><i class="icon-heart2"></i>2.1K</li>
+								<li><i class="icon-eye2"></i>7.9K</li>
+								<li><a href="#">Reserver<i class="icon-arrow-right22"></i></a></li>
+							</ul>
+						</div> 
+					</div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-4">
+					<div class="fh5co-blog animate-box">
+						<a href="#" class="blog-bg" style="background-image: url(images/parapente.jpeg);"></a>
+						<div class="blog-text">
+							<h3><a href="#">Piste de parapente</a></h3>
+							<p style="color: lightgray !important;">Vous pouvez atterrir directement en parapente dans l'ensigne de notre restaurant, ce qui vous rendra super cool et charismatique auprés des autres clients. Le dessert vous est offert si vous faites une figure.</p>
+							<ul class="stuff">
+								<li><i class="icon-heart2"></i>7.0K</li>
+								<li><i class="icon-eye2"></i>10.8K</li>
+								<li><a href="#">Reserver<i class="icon-arrow-right22"></i></a></li>
+							</ul>
+						</div> 
+					</div>
+				</div>
+				<div class="col-md-4">
+					<div class="fh5co-blog animate-box">
+						<a href="#" class="blog-bg" style="background-image: url(images/nightclub.jpeg);"></a>
+						<div class="blog-text">
+							<h3><a href="#">Boite de nuit</a></h3>
+							<p style="color: lightgray !important;">Sa club ou quoient ?</p>
+							<ul class="stuff">
+								<li><i class="icon-heart2"></i>62.6K</li>
+								<li><i class="icon-eye2"></i>144K</li>
+								<li><a href="#">Reserver<i class="icon-arrow-right22"></i></a></li>
+							</ul>
+						</div> 
+					</div>
+				</div>
+				<div class="col-md-4">
+					<div class="fh5co-blog animate-box">
+						<a href="#" class="blog-bg" style="background-image: url(images/bercy.jpeg);"></a>
+						<div class="blog-text">
+							<h3><a href="#">Salle de concert</a></h3>
+							<p style="color: lightgray !important;">Enfin, notre enseigne dispose d'une salle de concert d'une capacité de 15 000 personnes. Nous recevons chaque semaine des artistes du monde entier.</p>
+							<ul class="stuff">
+								<li><i class="icon-heart2"></i>106.5K</li>
+								<li><i class="icon-eye2"></i>749.9K</li>
+								<li><a href="#">Reserver<i class="icon-arrow-right22"></i></a></li>
 							</ul>
 						</div> 
 					</div>
@@ -332,23 +375,22 @@
 					<p>Aussi, conformément à l’article n°6 de la Loi n°2004-575 du 21 Juin 2004 pour la confiance dans l’économie numérique, et de son établissement le kha'zix cafe restaurant.</p>
 				</div>
 				<div class="col-md-2 col-md-push-1 fh5co-widget">
-					<h4>Liens</h4>
-					<ul class="fh5co-footer-links">
-						<li><a href="#">Github</a></li>
-						<li><a href="#">Spotify</a></li>
-						<li><a href="#">Paypal</a></li>
-						<li><a href="#">Instagram</a></li>
-					</ul>
-				</div>
-
-				<div class="col-md-2 col-md-push-1 fh5co-widget">
 					<h4>Services</h4>
 					<ul class="fh5co-footer-links">
 						<li><a href="#">Restaurant</a></li>
 						<li><a href="#">Cafe</a></li>
 						<li><a href="#">Laser game</a></li>
 						<li><a href="#">Mur d'escalade</a></li>
-						<li><a href="#">Salle de karting</a></li>
+					</ul>
+				</div>
+
+				<div class="col-md-2 col-md-push-1 fh5co-widget">
+					<h4> <br> </h4>
+					<ul class="fh5co-footer-links">
+						<li><a href="#">Trampopark</a></li>
+						<li><a href="#">Piste de parapente</a></li>
+						<li><a href="#">Boite de nuit</a></li>
+						<li><a href="#">Salle de concert</a></li>
 					</ul>
 				</div>
 
