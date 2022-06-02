@@ -53,7 +53,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-xs-12 text-center logo-wrap">
-						<div id="fh5co-logo"><a href="index.html">Le kha'zix café/restaurant<span>.</span></a></div>
+						<div id="fh5co-logo"><a href="index.html">Le kha'zix restoclub<span>.</span></a></div>
 					</div>
 					<div class="col-xs-12 text-center menu-1 menu-wrap">
 						<ul>
@@ -80,7 +80,7 @@
 							<h2>13 Place Vendôme, <em>Paris</em></h2>
 						</div>
 					</div>
-				</div>
+				</div> 
 			</div>
 		</div>
 	</header>
@@ -94,7 +94,7 @@
 				<div class="col-md-5 col-md-push-1 animate-box">
 					<div class="section-heading">
 						<h2>Notre restaurant</h2>
-						<p style="color: lightgray !important;">Ouvert en 2022 en plein centre de la capitale d'un pays modialement réputé pour sa gastronomie, le kha'zix cafe restaurant est un pari risqué que nous assumons pleinement.
+						<p style="color: lightgray !important;">Ouvert en 2022 en plein centre de la capitale d'un pays modialement réputé pour sa gastronomie, le kha'zix restoclub est un pari risqué que nous assumons pleinement.
 							En effet, une majorité de nos plats ne sont jamais vus dans les restaurants gastronomiques habituels par leur ambition. Nos clients en ressortent toujours conquis en
 							jamais personne n'a regretté l'expérience.
 						</p>
@@ -256,7 +256,7 @@
 			<div class="row animate-box">
 				<div class="col-md-8 col-md-offset-2 text-center fh5co-heading animate-box">
 					<h2>Activités supplémentaires</h2>
-					<p style="color: lightgray !important;">Notre grande enseigne, le kha'zix cafe restaurant, propose également des activités familiales et entre amis, en effet tout un complexe de loisirs est accessible au sous-sol de notre enseigne.
+					<p style="color: lightgray !important;">Notre grande enseigne, le kha'zix restoclub, propose également des activités familiales et entre amis, en effet tout un complexe de loisirs est accessible au sous-sol de notre enseigne.
 					Vous pourrez retrouver au sein de notre établissement :
 					</p>
 				</div>
@@ -272,7 +272,7 @@
 							<ul class="stuff">
 								<li><i class="icon-heart2"></i>3.2K</li>
 								<li><i class="icon-eye2"></i>14.1K</li>
-								<li><a href="#">Reserver<i class="icon-arrow-right22"></i></a></li>
+								<li><a href="./cursed.html">Reserver<i class="icon-arrow-right22"></i></a></li>
 							</ul>
 						</div> 
 					</div>
@@ -286,7 +286,7 @@
 							<ul class="stuff">
 								<li><i class="icon-heart2"></i>10.6K</li>
 								<li><i class="icon-eye2"></i>32K</li>
-								<li><a href="#">Reserver<i class="icon-arrow-right22"></i></a></li>
+								<li><a href="./cursed.html">Reserver<i class="icon-arrow-right22"></i></a></li>
 							</ul>
 						</div> 
 					</div>
@@ -300,9 +300,9 @@
 							<ul class="stuff">
 								<li><i class="icon-heart2"></i>2.1K</li>
 								<li><i class="icon-eye2"></i>7.9K</li>
-								<li><a href="#">Reserver<i class="icon-arrow-right22"></i></a></li>
+								<li><a href="./cursed.html">Reserver<i class="icon-arrow-right22"></i></a></li>
 							</ul>
-						</div> 
+						</div>
 					</div>
 				</div>
 			</div>
@@ -316,7 +316,7 @@
 							<ul class="stuff">
 								<li><i class="icon-heart2"></i>7.0K</li>
 								<li><i class="icon-eye2"></i>10.8K</li>
-								<li><a href="#">Reserver<i class="icon-arrow-right22"></i></a></li>
+								<li><a href="./cursed.html">Reserver<i class="icon-arrow-right22"></i></a></li>
 							</ul>
 						</div> 
 					</div>
@@ -326,11 +326,11 @@
 						<a href="#" class="blog-bg" style="background-image: url(images/nightclub.jpeg);"></a>
 						<div class="blog-text">
 							<h3><a href="#">Boite de nuit</a></h3>
-							<p style="color: lightgray !important;">Sa club ou quoient ?</p>
+							<p style="color: lightgray !important;">Notre établissement est composé d'une boite de nuit sur 2 étages avec des DJ du monde entier, composé d'une salle style années 80, le "disco-nunu", et d'une salle axée EDM moderne baptisée le "sa club ou quoient ?"</p>
 							<ul class="stuff">
 								<li><i class="icon-heart2"></i>62.6K</li>
 								<li><i class="icon-eye2"></i>144K</li>
-								<li><a href="#">Reserver<i class="icon-arrow-right22"></i></a></li>
+								<li><a href="./cursed.html">Reserver<i class="icon-arrow-right22"></i></a></li>
 							</ul>
 						</div> 
 					</div>
@@ -344,7 +344,7 @@
 							<ul class="stuff">
 								<li><i class="icon-heart2"></i>106.5K</li>
 								<li><i class="icon-eye2"></i>749.9K</li>
-								<li><a href="#">Reserver<i class="icon-arrow-right22"></i></a></li>
+								<li><a href="./cursed.html">Reserver<i class="icon-arrow-right22"></i></a></li>
 							</ul>
 						</div> 
 					</div>
@@ -408,7 +408,7 @@
 			<div class="row copyright">
 				<div class="col-md-12 text-center">
 					<p>
-						<small class="block">&copy; Kha'zix cafe restaurant. All Rights Reserved.</small> 
+						<small class="block">&copy; kha'zix restoclub. All Rights Reserved.</small> 
 						<small class="block">Social media : </small>
 					</p>
 					<p>
