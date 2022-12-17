@@ -53,7 +53,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-xs-12 text-center logo-wrap">
-						<div id="fh5co-logo"><a href="index.html">Le kha'zix restoclub<span>.</span></a></div>
+						<div id="fh5co-logo"><a href="index.html">Le kha'zix restaurant<span>.</span></a></div>
 					</div>
 					<div class="col-xs-12 text-center menu-1 menu-wrap">
 						<ul>
@@ -94,7 +94,7 @@
 				<div class="col-md-5 col-md-push-1 animate-box">
 					<div class="section-heading">
 						<h2>Notre restaurant</h2>
-						<p style="color: lightgray !important;">Ouvert en 2022 en plein centre de la capitale d'un pays modialement réputé pour sa gastronomie, le kha'zix restoclub est un pari risqué que nous assumons pleinement.
+						<p style="color: lightgray !important;">Ouvert en 2022 en plein centre de la capitale d'un pays modialement réputé pour sa gastronomie, le kha'zix restaurant est un pari risqué que nous assumons pleinement.
 							En effet, une majorité de nos plats ne sont jamais vus dans les restaurants gastronomiques habituels par leur ambition. Nos clients en ressortent toujours conquis en
 							jamais personne n'a regretté l'expérience.
 						</p>
@@ -172,27 +172,28 @@
 				<div class="col-md-12 fh5co-heading animate-box">
 					<h2>Un mot de notre chef restaurateur</h2>
 					<div class="row">
-						<div class="col-md-6">
+						<div class="col-md-9">
 							<p style="color: lightgray !important;">Du haut de sa grande expertise, notre chef est reconnu comme précurseur dans son domaione.
 								Ayant suivi l'une des formations les plus prestigieuses, il se fait rapidement remarquer par les plus grands chefs Français : Philippe Etchebest, Alain Ducasse, Cyril Lignac et d'autres. 
 								Suite à sa participation à de nombreux concours culinaires autour du globe, notre chef sera reconnu 5 étoiles par l'administration académique.
 								<br>
 								Voici quelques mot que notre chef souhaite vous partager sur sa vision du restaurant.
+								<br>
 							</p>
 						</div>
 					</div>
+					<div class="col-md-5 animate-box img-to-responsive animate-box" data-animate-effect="fadeInLeft">
+							<img src="images/kz.png" alt="">
+					</div>
+					<div class="col-md-7 animate-box" data-animate-effect="fadeInRight">
+						<blockquote>
+							<p> &ldquo; א̸נ̸י̵ ̵א̷פ̴ל̵ ̶ו̴מ̴ס̴ת̷ו̴ר̴י̶,̷ ̷ו̴ל̶כ̸ן̷ ̵ל̸א̵ ̸מ̸ג̴נ̶י̸ב̵ ̶ו̸כ̵ר̵י̴ז̴מ̶ט̵י̵ 
+								̸ש̵מ̶ס̴ו̴פ̸ק̷ ̷ע̴ל̷ ̸י̷ד̶י̴ ̷ג̸ו̶ג̶ל̸,̶ ̶ה̵מ̸א̸פ̵ש̸ר̶ ̴ל̴ת̴ר̷ג̵ם̸ ̵ט̷ק̷ס̶ט̴ ̴א̵ו̶ ̸ד̶ף̷ ̵א̴י̸נ̷ט̶ר̸נ̴ט̶ ̷ל̵ש̵פ̸ה̵ ̵א̵ח̴ר̴ת̴.̵ ̸ו̶י̸ק̸י̶פ̷ד̶י̵ה̸
+								&rdquo;</p>
+							<p class="author"><cite>&mdash; Kha'zix, chef cuisiner</cite></p>
+						</blockquote>
+					</div>
 				</div>
-
-				<div class="col-md-5 animate-box img-to-responsive animate-box" data-animate-effect="fadeInLeft">
-						<img src="images/kz.png" alt="">
-				</div>
-				<div class="col-md-7 animate-box" data-animate-effect="fadeInRight">
-					<blockquote>
-						<p> &ldquo; א̸נ̸י̵ ̵א̷פ̴ל̵ ̶ו̴מ̴ס̴ת̷ו̴ר̴י̶,̷ ̷ו̴ל̶כ̸ן̷ ̵ל̸א̵ ̸מ̸ג̴נ̶י̸ב̵ ̶ו̸כ̵ר̵י̴ז̴מ̶ט̵י̵ 
-							̸ש̵מ̶ס̴ו̴פ̸ק̷ ̷ע̴ל̷ ̸י̷ד̶י̴ ̷ג̸ו̶ג̶ל̸,̶ ̶ה̵מ̸א̸פ̵ש̸ר̶ ̴ל̴ת̴ר̷ג̵ם̸ ̵ט̷ק̷ס̶ט̴ ̴א̵ו̶ ̸ד̶ף̷ ̵א̴י̸נ̷ט̶ר̸נ̴ט̶ ̷ל̵ש̵פ̸ה̵ ̵א̵ח̴ר̴ת̴.̵ ̸ו̶י̸ק̸י̶פ̷ד̶י̵ה̸
-							&rdquo;</p>
-						<p class="author"><cite>&mdash; Kha'zix, chef cuisiner</cite></p>
-					</blockquote>
 				</div>
 			</div>
 		</div>
@@ -256,7 +257,7 @@
 			<div class="row animate-box">
 				<div class="col-md-8 col-md-offset-2 text-center fh5co-heading animate-box">
 					<h2>Activités supplémentaires</h2>
-					<p style="color: lightgray !important;">Notre grande enseigne, le kha'zix restoclub, propose également des activités familiales et entre amis, en effet tout un complexe de loisirs est accessible au sous-sol de notre enseigne.
+					<p style="color: lightgray !important;">Notre grande enseigne, le kha'zix restaurant, propose également des activités familiales et entre amis, en effet tout un complexe de loisirs est accessible au sous-sol de notre enseigne.
 					Vous pourrez retrouver au sein de notre établissement :
 					</p>
 				</div>
@@ -352,7 +353,7 @@
 			</div>
 		</div>
 	</div>
-	-->
+	
 	
 	<div id="fh5co-started" class="fh5co-section animate-box" style="background-image: url(images/aesth.png);" data-stellar-background-ratio="0.5">
 		<div class="overlay"></div>
@@ -408,7 +409,7 @@
 			<div class="row copyright">
 				<div class="col-md-12 text-center">
 					<p>
-						<small class="block">&copy; kha'zix restoclub. All Rights Reserved.</small> 
+						<small class="block">&copy; kha'zix restaurant. All Rights Reserved.</small> 
 						<small class="block">Social media : </small>
 					</p>
 					<p>
